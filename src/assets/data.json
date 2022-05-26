@@ -1,0 +1,17 @@
+{
+    "name":"kokila",
+    "details":{
+        "address":"big street ganghinagar kolar"
+    },
+    "friends":[
+        {
+            "name":"shanvi",
+            "phone_number":"8123299398"
+        },
+        {
+            "name":"mahathi",
+            "phone_number":"9901834168"
+        }
+    ],
+    "is_registered":true
+}
